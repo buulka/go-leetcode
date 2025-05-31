@@ -1,2 +1,1 @@
-# go-leetcode
-Solving LeetCode problems in Go
+# Solving LeetCode problems in Go
